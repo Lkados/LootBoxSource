@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\AdrianGaming\source\repos\LootBoxes\x64\Release\LootBoxes.dll) entspricht nicht dem OutputFile-Eigenschaftswert (C:\Users\AdrianGaming\Desktop\Ark_Server\steam\servers\ShooterGame\Binaries\Win64\ArkApi\Plugins\LootBoxes\LootBoxes.dll) von Linker. Das Projekt wird daher möglicherweise nicht ordnungsgemäß erstellt. Damit dieses Problem behoben werden kann, müssen die Eigenschaftswerte für $(OutDir), $(TargetName) und $(TargetExt) dem in %(Link.OutputFile) angegebenen Wert entsprechen.
+  Code wird generiert.
+  All 4817 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  LootBoxes.vcxproj -> C:\Users\AdrianGaming\source\repos\LootBoxes\x64\Release\LootBoxes.dll
